@@ -74,6 +74,9 @@ git reset HEAD~1
 
 ```bash
 $ git remote add origin <repository-url>
+
+#check remote
+$ git remote -v
 ```
 
 ## git push
