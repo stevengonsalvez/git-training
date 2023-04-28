@@ -17,9 +17,7 @@ Tell Git who you arex
 
 ```
 git config --global user.name "YOUR_USERNAME"
-
-git config --global user.email "im_satoshi@musk.com"
-
+git config --global user.email "im_steve@steve.com"
 git config --global --list
 ```
 
@@ -109,4 +107,23 @@ $ git clone <repository-url>
 
 ```bash
 $ git fetch origin
+```
+
+## git diff
+
+- make changes to a file and then check the changes 
+
+```
+git diff
+
+```
+
+## Revert back to the last committed version to the Git Repo
+
+```bash
+$ git checkout .
+
+# OR for a specific file
+
+$ git checkout -- <filename>
 ```
