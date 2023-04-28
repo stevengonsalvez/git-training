@@ -60,7 +60,6 @@ Getting started with pipelines, secrets, environments on git with github actions
 
 Getting started with github issues, github projects
 
-
 ## Lab 7 
 
 Exploration of other tools 
