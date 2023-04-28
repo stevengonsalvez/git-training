@@ -10,6 +10,7 @@
 - [exercise-2](./lab-2/exercise-2.md): advanced rebasing
 - [exercise-3](./lab-2/exercise-3.md): merge conflict resolution
 - [exercise-4](./lab-2/exercise-4.md): gitignore
+- [exercise-5](./lab-2/exercise-5.md): git aliases to improve your local productivity
 
 
 ## Lab 3
@@ -65,5 +66,3 @@ Getting started with github issues, github projects
 Exploration of other tools 
 - codespaces
 - copilot
-
-Building your first proper opensource project
